@@ -1,7 +1,7 @@
 import requests
 
 def get_weather_desc_and_temp():
-  api_key = "ff74b5cae857e26c803666e096fa94ed"
+  api_key = "" ##insert key here
 
   city = "Orlando"
 
